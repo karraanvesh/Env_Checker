@@ -19,3 +19,5 @@
 5. Run the index.js
 
 `node index.js <Any Environment variables you want to pass>`
+
+**Project URL** : https://github.com/karraanvesh/Env_Checker

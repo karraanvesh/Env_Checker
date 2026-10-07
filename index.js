@@ -27,7 +27,7 @@ function envChecker() {
     // Hence, we print a friendly message and exit the program.
 
     if(lengthOfArray <= 2) {
-        console.log(`error: please provide at least one environment variable name`);
+        console.error(`error: please provide at least one environment variable name`);
         process.exit(2);
     }
 

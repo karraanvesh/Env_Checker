@@ -22,4 +22,4 @@
 
 ## Project URL
 
-`https://github.com/karraanvesh/Env_Checker`
+https://roadmap.sh/projects/nodejs-env-checker

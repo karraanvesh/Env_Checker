@@ -2,7 +2,7 @@
 
 1. Clone the project
 
-`git clone https://github.com/karraanvesh/Env_Checker.git`
+`git clone https://github.com/karraanvesh/Env_Checker.git <ProjectName>`
 
 2. Move in to the folder structure 
 
